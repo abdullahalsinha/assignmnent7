@@ -46,7 +46,7 @@
 
 
 
-.ui h2{ 
+.ui h3{ 
     position: absolute;
     top: 0px;
     right: 200px;
@@ -59,7 +59,7 @@
     background-color: rgb(206, 211, 212);
     color:rgba(36, 43, 43, 0.884);
 }
-.ui h2 :hover{
+.ui h3 :hover{
                 background-color: black;
 
 
