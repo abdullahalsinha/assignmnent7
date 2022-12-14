@@ -1,0 +1,66 @@
+.body{
+    background-color:burlywood;
+}
+
+
+.fn{
+    color:rgb(3, 114, 158) ;
+    position: relative;
+
+}
+
+.gh h4{
+    width: 250px;
+    padding: 20px;
+    box-shadow: 10px 19px 20px rgb(20, 16, 16);
+    border-radius: 20px;
+    cursor: pointer;
+    color: burlywood;
+    transition: 0.2s;
+    
+}
+.gh :hover{
+    background-color: #d3d3d35d;
+
+}
+
+.ui h2{ 
+        position: absolute;
+        top: 0;
+        right: 100px;
+        width: 80px;
+        padding: 5px;
+        text-align: center;
+        cursor:pointer;
+        box-shadow: 0 0 5px;
+        border-radius: 20px;
+        background-color: rgb(65, 211, 240);
+        color:rgba(108, 247, 247, 0.884)4);
+}
+
+.ui h2 :hover{
+            background-color: rgb(66, 22, 187);
+
+}
+
+
+
+
+.ui h2{ 
+    position: absolute;
+    top: 0px;
+    right: 200px;
+    width: 80px;
+    padding: 6px;
+    text-align: center;
+    box-shadow: 0 0 5px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: rgb(206, 211, 212);
+    color:rgba(36, 43, 43, 0.884);
+}
+.ui h2 :hover{
+                background-color: black;
+
+
+}
